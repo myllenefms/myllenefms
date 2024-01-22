@@ -6,13 +6,19 @@
 
 -----------------
 ## **Breves Informações** 📣
-- Estudante de Engenharia Eletrônica na UFPE;
 - Atualmente desempenho a função Analista de Desenvolvimento Jr. na [Avanade](https://www.avanade.com/pt-br);
 
+## **Certificações**
+<div align="center">
+    <a href="https://www.credly.com/badges/a8746584-c018-49c6-92a1-411ee9f20be9/public_url" target="_blank"><img src="https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
+    <a href="https://www.credly.com/badges/bba9a9f5-dcab-4d31-b4bb-73af96630ba7/public_url" target="_blank"><img src="https://images.credly.com/size/100x100/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"></a>
+    <a href="https://www.credly.com/badges/daba0485-ff17-466b-bade-8f3fe3b99a63/public_url" target="_blank"><img src="https://images.credly.com/size/100x100/images/787c11c7-306d-43a5-9fe7-bd3b8e7886e6/image.png"></a>
+    <a href="https://www.credly.com/badges/d25cdf11-2c4b-46c8-90eb-8a0e7f563f1e/public_url" target="_blank"><img src="https://images.credly.com/size/100x100/images/02385bfc-b8e3-46b0-a005-c4c354eff100/image.png"></a>
+</div>
 
 ## **Stacks** 
 <div align="center">
-  <a href="https://github.com/pedrofelixg/pedrofelixg">
+  <a href="https://github.com/myllenefms/myllenefms">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myllenefms&theme=dracula&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllenefms&layout=compact&theme=dracula"/>
 </div>

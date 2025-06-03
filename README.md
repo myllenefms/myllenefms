@@ -10,6 +10,8 @@
       <img align="center" alt="logo-sql" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"> SQL Server |
       <img align="center" alt="logo-git" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> GIT |
       <img align="center" alt="logo-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript | 
+        <img align="center" alt="logo-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js |
+        <img align="center" alt="logo-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> Typescript |
       <img alt="azure-logo" align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> Azure Cloud Computing | 
       <img align="center" alt="logo-py" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python |
     </b>
@@ -20,7 +22,7 @@
 - Geração Z com alma de Millenial :ghost:
 - Pernambucana 🏖️
 - Cursei Engenharia Eletrônica na UFPE :books:
-- Estagiei em Engenharia na [ENERCOM ENERGIAS RENOVÁVEIS](http://www.enercom-energias.com/) :zap:
+- Estagiei em Engenharia Elétrica na [ENERCOM ENERGIAS RENOVÁVEIS](http://www.enercom-energias.com/) :zap:
 - Estagiei em TI na [Avanade](https://www.avanade.com/pt-br) :rocket:
 - Atualmente sou Analista e Desenvolvedora de Software na [Avanade](https://www.avanade.com/pt-br) :woman_technologist:
 

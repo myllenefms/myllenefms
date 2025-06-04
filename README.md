@@ -29,6 +29,16 @@
     <a href="https://www.credly.com/badges/6149eca7-6810-4a9c-99ef-687d4b60283c/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/f28a92f1-2837-4770-add0-70008be15e89/image.png" width="100" height="100"></a>
 </div>
 
+##
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=myllenefms&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllenefms&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
+
+
 ------------
 ## **Contatos e Links**
 

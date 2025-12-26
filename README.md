@@ -1,14 +1,13 @@
 # **Olá, bem vindo ao meu GitHub, eu sou Myllene Mendes**
 
 <div align="center">
-    <b> 👩‍💻 Analyst, Back-End Developer | Software Engineering </b>
+    <b> 👩‍💻 Sr Analyst, Back-End Developer | Software Engineering </b>
 </div>
 
 -----------------
 ## **Breves Informações** 📣
-- Geração Z com alma de Millenial :ghost:
 - Pernambucana 🏖️
-- Cursei Engenharia Eletrônica na UFPE :books:
+- Formada em Engenharia Eletrônica na UFPE :books:
 - Estagiei em Engenharia Elétrica na [ENERCOM ENERGIAS RENOVÁVEIS](http://www.enercom-energias.com/) :zap:
 - Estagiei em TI na [Avanade](https://www.avanade.com/pt-br) :rocket:
 - Atualmente sou Analista e Desenvolvedora de Software na [Avanade](https://www.avanade.com/pt-br) :woman_technologist:
@@ -46,3 +45,4 @@
     <a href="mailto:myllenefms@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-005FF9?style=for-the-badge&logo=mailboxdotorg&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/myllenefms/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
